@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Kuri',
-  tagline: 'Dead-letter Queuee-as-a-Service',
+  tagline: 'Dead-letter Queue-as-a-Service',
   url: 'https://kuri-dlq.github.io',
   baseUrl: '/kuri-docs/', // :'( changing this to anything else breaks everything
   onBrokenLinks: 'throw',

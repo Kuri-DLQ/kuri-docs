@@ -6,4 +6,4 @@ id: view-messages
 
 ![view-messages](../../static/img/view-messages.png)
 
-Can view all messages and sort by timestamp and body
+Developers can view all of their dead-letter messages here. Click the arrows beside `Message Timestamp` or `Message Body` to sort in either ascending or descending order.

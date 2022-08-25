@@ -50,7 +50,7 @@ module.exports = {
     { 
       type: 'category',
       label: 'Dashboard',
-      items: ['dashboard/view-messages', 'dashboard/group-actions', 'dashboard/individual-actions'],
+      items: ['dashboard/view-messages', 'dashboard/group-actions', 'dashboard/individual-actions', 'dashboard/message-details'],
     }
   ]
 }

@@ -43,7 +43,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Kuri Logo',
-          src: 'img/logo_color.png',
+          src: 'img/logo_color.svg',
         },
         items: [
           {

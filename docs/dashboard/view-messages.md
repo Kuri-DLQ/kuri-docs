@@ -2,8 +2,13 @@
 id: view-messages
 ---
 
-# View Messages
+# View messages
+
+All messages in the dead-letter queue can be viewed here. 
 
 ![view-messages](../../static/img/view-messages.png)
 
-Developers can view all of their dead-letter messages here. Click the arrows beside `Message Timestamp` or `Message Body` to sort in either ascending or descending order.
+The user can click the up and down arrows beside `Message Timestamp` or `Message Body` to sort the messages in either ascending or descending order, respectively.
+
+![view-messages](../../static/img/view-messages-2.png)
+

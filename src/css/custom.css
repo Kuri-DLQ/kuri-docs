@@ -5,26 +5,20 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300ita‌​lic,400italic,500,500italic,700,700italic,900italic,900);
+
+html, body, html * {
+  font-family: 'Roboto', sans-serif;
+}
+
 :root {
-  --ifm-color-primary: #15416C;
-  --ifm-color-primary-dark: #15386C;
-  --ifm-color-primary-darker: #15336C;
-  --ifm-color-primary-darkest: #152E6C;
-  --ifm-color-primary-light: #15496C;
-  --ifm-color-primary-lighter: #154F6C;
-  --ifm-color-primary-lightest: #155F6C;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  color: #153065;
+  --ifm-color-primary: #153065;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #FEB13A;
-  --ifm-color-primary-dark: #FE953A;
-  --ifm-color-primary-darker: #FE7F3A;
-  --ifm-color-primary-darkest: #FE753A;
-  --ifm-color-primary-light: #FECA3A;
-  --ifm-color-primary-lighter: #FEE13A;
-  --ifm-color-primary-lightest: #FEF43A;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  color: white;
+  --ifm-color-primary: #FD7547;
 }
